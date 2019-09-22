@@ -1,1 +1,1 @@
-Front end for real estate company.
+Page was created to test out the possibilities of css Grid.
